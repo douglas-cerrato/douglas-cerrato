@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 👽 I'm Doug, a Junior Dev working towards my Bachelors.
+- 👽 I'm Doug, and I'm a Junior Dev working towards my Bachelors in Computer Science.
 - 💻 Here's where I keep any code I'm working on.
 - ⏰ Actively coding on my free time as well.
 - 💼 Always looking for people to code/collaborate with!
